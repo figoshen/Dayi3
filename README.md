@@ -3,6 +3,6 @@
 Dayi 3 IME
 Use editer
 
-find:"(..)(.)(.="*)
+find:"(..)(.)(."="*)
 
 replace:\1\3
